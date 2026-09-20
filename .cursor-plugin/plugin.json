@@ -1,0 +1,20 @@
+{
+  "name": "idle-am",
+  "version": "1.0.0",
+  "description": "Play idle.am through your assistant. Check your character, train skills, manage tasks, and view interactive MCP Apps cards.",
+  "author": {
+    "name": "Ithoro Games",
+    "email": "support@ithoro.com"
+  },
+  "homepage": "https://idle.am",
+  "repository": "https://github.com/ithoro-games/idle.am",
+  "logo": "logo.png",
+  "keywords": [
+    "idle-am",
+    "mcp",
+    "mcp-apps",
+    "game",
+    "idle-mmo"
+  ],
+  "mcpServers": "mcp.json"
+}
