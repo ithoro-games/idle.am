@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "idle-am": {
+      "url": "https://api.idle.am/mcp"
+    }
+  }
+}
